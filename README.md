@@ -1,4 +1,4 @@
-# Custom FastAPI Full-Stack Project
+# Custom FastAPI Full-Stack Project backend
 
 # Modified by Tosh Gitonga 🚀
 
